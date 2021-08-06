@@ -1,3 +1,0 @@
-Story.txt
-Hello World
-Hello GitHub
